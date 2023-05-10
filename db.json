@@ -1,0 +1,22 @@
+{
+  "task": [
+    {
+      "id": "2",
+      "txt": "Relevance: The content should be relevant to the topic or subject matter.",
+      "day": "Jan 7, 2023 at 2PM",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "txt": "Tone: The tone of the content should be appropriate for the intended audience and purpose of the writing.",
+      "day": "Nov 14, 2022 at 6PM",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "txt": "Style: The writing style should be engaging and interesting, and it should reflect the brand or personality of the writer.",
+      "day": "Oct 3, 2022 at 5:35PM",
+      "reminder": true
+    }
+  ]
+}
